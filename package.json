@@ -1,0 +1,14 @@
+{
+    "name": "my-project",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+      "start": "concurrently \"npm run start --prefix backend\" \"npm run start --prefix frontend\"",
+      "backend": "npm run dev --prefix backend",
+      "frontend": "npm run start --prefix frontend"
+    },
+    "devDependencies": {
+      "concurrently": "^7.0.0"
+    }
+  }
+       
