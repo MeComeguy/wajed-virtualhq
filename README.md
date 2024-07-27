@@ -136,7 +136,7 @@ This project uses the following open source packages:
 ## You May Also Like...
 
 * [Bitaqa](https://github.com/MeComeguy/bitaqa) - Bitaqa is a proprietary NFC protocol that can be used for google reviews and many other features from a mobile device.
-* [Morocco-Interpol](https://github.com/MeComeguy/morocco-interpol) - Our web app for Morocco's Interpol helps track and find Morocco's most wanted individuals. It's easy to use, showing profiles with photos and details of people wanted for different reasons. It's updated in real-time to support everyone working towards justice.
+* [Morocco-interpole](https://github.com/MeComeguy/morocco-interpole) - Our web app for Morocco's interpole helps track and find Morocco's most wanted individuals. It's easy to use, showing profiles with photos and details of people wanted for different reasons. It's updated in real-time to support everyone working towards justice.
 
 ## Contact
 
